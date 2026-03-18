@@ -10,7 +10,7 @@ This repo serves as a record of my progress and learning.
 ## Languages
 
 - C#
-- (Add more as I go)
+- Python
 
 ## Structure
 
